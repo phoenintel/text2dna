@@ -1,7 +1,7 @@
-# TEXT2DNA
+# text2dna (text to DNA)
 Convert text to dna sequence and vice versa!
 
-<a href='http://main.st4lwolf.org/tools/dna'>Try it here (python console)</a>
+<strong><a href='http://main.st4lwolf.org/tools/dna'>Try it here (python console)</a></strong>
 
 Data storage in dna (deoxyribonucleic acid) is a promising solution to the problems faced by current storage systems, such as the physical size of the infrastructure, the amount of energy required for its operation and its very limited lifespan.
 
