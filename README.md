@@ -5,8 +5,6 @@ Convert text to dna sequence and vice versa!
 
 Data storage in dna (deoxyribonucleic acid) is a promising solution to the problems faced by current storage systems, such as the physical size of the infrastructure, the amount of energy required for its operation and its very limited lifespan.
 
-Data storage in dna (deoxyribonucleic acid) is a promising solution to the problems faced by current storage systems, such as the physical size of the infrastructure, the amount of energy required for its operation and its very limited lifespan.
-
 As is often the case, we are inspired by nature to find and apply solutions to the problems we face in our current systems.
 
 To give you an idea, our current digital data storage infrastructures are as big as football pitches and cost several million euros to maintain per year. In addition, they pose serious energy and ecological problems.
